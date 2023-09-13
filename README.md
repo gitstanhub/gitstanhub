@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Stanislav and I write code, mostly in test automation scope.
+My name is Stanislav and I write code. Mostly in test automation scope.
 Check out my recent project for Spotify App.
 
 <!--
