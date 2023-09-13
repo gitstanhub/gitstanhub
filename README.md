@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Stanislav and I write code, mostly in test automation scope.
+Check out my recent project for Spotify App.
 
 <!--
 **gitstanhub/gitstanhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
