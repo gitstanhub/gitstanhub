@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Stanislav and I write code for test automation.  
 
-Check out my recent project for <a href="https://github.com/gitstanhub/test-automation-experiment-spotify">Spotify App</a>!
+💚 Check out my recent project for <a href="https://github.com/gitstanhub/test-automation-experiment-spotify">Spotify App</a>!
 
 <!--
 **gitstanhub/gitstanhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
