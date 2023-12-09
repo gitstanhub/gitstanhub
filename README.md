@@ -8,6 +8,8 @@ My current scope of interest is based around:
 
 💚 Check out my recent project for <a href="https://github.com/gitstanhub/test-automation-experiment-spotify">Spotify App</a>!
 
+I love Java, and I'm also doing steps forward to master Swift, Kotlin and JS.
+
 <!--
 **gitstanhub/gitstanhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
