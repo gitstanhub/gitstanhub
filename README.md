@@ -6,7 +6,7 @@ My current scope of interest is based around:
 - Backend development
 - Native Mobile development
 
-💚 Check out my recent project for <a href="https://github.com/gitstanhub/test-automation-experiment-spotify">Spotify App</a>!
+💚 Check out my recent project for <a href="https://github.com/gitstanhub/test-automation-experiment-spotify">Spotify App</a>! 💚
 
 I love Java, and I'm also doing steps forward to master Swift, Kotlin and JS.
 
