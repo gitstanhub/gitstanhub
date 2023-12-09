@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Stanislav, I'm experienced Quality Assurance enginner with a huge passion for coding.
+My name is Stanislav, I'm experienced Quality Assurance engineer with a huge passion for coding.
 
 My current scope of interest is based around:
 - Test Automation
