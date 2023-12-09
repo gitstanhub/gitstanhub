@@ -1,5 +1,10 @@
 ### Hi there 👋
-My name is Stanislav and I write code for test automation.  
+My name is Stanislav, I'm experienced Quality Assurance enginner with a huge passion for coding.
+
+My current scope of interest is based around:
+- Test Automation
+- Backend development
+- Native Mobile development
 
 💚 Check out my recent project for <a href="https://github.com/gitstanhub/test-automation-experiment-spotify">Spotify App</a>!
 
