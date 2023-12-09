@@ -1,14 +1,14 @@
 ### Hi there 👋
-My name is Stanislav, I'm experienced Quality Assurance engineer with a huge passion for coding.
+My name is Stanislav, I'm an experienced Quality Assurance engineer with a huge passion for coding.
 
 My current scope of interest is focused around:
 - Test Automation
-- Backend development
-- Mobile development
+- Backend Development
+- Mobile Development
 
 I love Java and I'm also doing steps forward to master Swift, Kotlin and JS.
 
-💚 Check out my recent project for <a href="https://github.com/gitstanhub/test-automation-experiment-spotify">Spotify App</a>! 💚
+💚 Check out my recent project for <a href="https://github.com/gitstanhub/test-automation-experiment-spotify">the Spotify App</a>! 💚
 
 <!--
 **gitstanhub/gitstanhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
