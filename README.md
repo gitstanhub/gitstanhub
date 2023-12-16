@@ -6,7 +6,7 @@ My current scope of interest is focused around:
 - Backend Development
 - Mobile Development
 
-I love Java and I'm also doing steps forward to master Swift, Kotlin and JS.
+I write in Java and I'm also doing steps forward to master Swift, Kotlin and JS.
 
 💚 Check out my recent project for <a href="https://github.com/gitstanhub/test-automation-experiment-spotify">the Spotify App</a>! 💚
 
