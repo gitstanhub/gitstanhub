@@ -1,12 +1,11 @@
 ### Hi there 👋
 My name is Stanislav, I'm an experienced Quality Assurance engineer with a huge passion for coding.
+I love to write clean code in Java and doing steps towards mastering Swift, Kotlin and JavaScript.
 
 My current scope of interest is focused around:
-- Test Automation
+- Test Automation on API, Web and Mobile layers
 - Backend Development
 - Mobile Development
-
-I love writing clean code in Java and doing steps forward to master Swift, Kotlin and JS.
 
 💚 Check out my recent project for <a href="https://github.com/gitstanhub/test-automation-experiment-spotify">the Spotify App</a>! 💚
 
