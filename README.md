@@ -4,8 +4,7 @@ I love to write clean code in Java and taking steps towards mastering Swift, Kot
 
 My current scope of interest is focused around:
 - Test Automation for API, Web and Mobile
-- Backend Development, Unit and Integration tests
-- Mobile Development
+- Backend and Mobile Development, as well as Unit and Integration tests
 
 💚 Check out my <a href="https://github.com/gitstanhub/test-automation-experiment-spotify">recent project for the Spotify App</a> to get a glimpse of the work I can deliver!
 
