@@ -3,7 +3,7 @@ My name is Stanislav, and I'm an experienced Quality Assurance engineer with a p
 
 My current scope of interest is focused around:
 - Test Automation for API, Web and Mobile
-- Backend and Mobile Development, as well as Unit and Integration testing
+- Backend and Mobile Development, including Unit and Integration testing
 
 I love to write clean code in Java and taking steps towards mastering Swift and Kotlin.
 
