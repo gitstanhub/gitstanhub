@@ -3,7 +3,7 @@ My name is Stanislav, and I'm an experienced Quality Assurance engineer.
 
 My current scope of interest is focused around:
 - Test Automation for API, Web and Mobile
-- Backend development, including Unit and Integration testing
+- Backend development
 
 💚 Check out my <a href="https://github.com/gitstanhub/test-automation-experiment-spotify">recent project for the Spotify App</a> to get a glimpse of the work I can deliver!
 
