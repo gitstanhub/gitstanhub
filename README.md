@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Stanislav, and I'm an experienced Quality Assurance engineer. 
+My name is Stanislav, and I'm an experienced Software Quality Assurance engineer. 
 
 My current scope of interest is focused around:
 - Test Automation for API, Web and Mobile
